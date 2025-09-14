@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-During my internship at **DNEXT Intelligence SA**, I developed **AgriUrea**, a web-based forecasting application designed to provide **daily price predictions for granular urea fertilizer in the Middle East**. The application focuses on short-term forecasts (next **14 days**) while earlier experimentation covered extended horizons (14 days, 1 month, and 1 year) during the model evaluation phase.
+During my internship at **DNEXT Intelligence SA**(June 2025 – July 2025), I developed **AgriUrea**, a web-based forecasting application designed to provide **daily price predictions for granular urea fertilizer in the Middle East**. The application focuses on short-term forecasts (next **14 days**) while earlier experimentation covered extended horizons (14 days, 1 month, and 1 year) during the model evaluation phase.
 
 ### 📊 Key Contributions
 
