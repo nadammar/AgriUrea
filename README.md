@@ -1,12 +1,10 @@
 # AgriUrea – Granular Urea Fertilizer Price Forecasting
 
-## Internship Project – DNEXT Intelligence SA (June 2025 – July 2025)
-
 ### Project Overview
 
 During my internship at **DNEXT Intelligence SA**, I developed **AgriUrea**, a web-based forecasting application designed to provide **daily price predictions for granular urea fertilizer in the Middle East**. The application focuses on short-term forecasts (next **14 days**) while earlier experimentation covered extended horizons (14 days, 1 month, and 1 year) during the model evaluation phase.
 
-### Key Contributions
+###📊 Key Contributions
 
 * **Data Preprocessing & Quality Control**: Processed and validated over **6,600 rows of historical daily market data (2007–2025)** including urea, Brent crude, TTF gas, corn, wheat, and precipitation, ensuring robustness and consistency.
 * **Experimentation Phase**: Benchmarked multiple forecasting approaches:
@@ -24,7 +22,7 @@ During my internship at **DNEXT Intelligence SA**, I developed **AgriUrea**, a w
 * **Feature Importance Analysis**: Identified major price drivers such as energy costs, precipitation patterns, seasonal demand, and trade policies.
 * **Collaboration**: Worked with my **Tunisia-based supervisor** and the **Head of Fertilizer Analysis (Switzerland)** to align model outputs with market intelligence and trading practices.
 
-### Value Added
+### 🎯 Value Added
 
 This project demonstrates how **AI and advanced analytics can enhance decision-making in the fertilizer market** by:
 
@@ -32,6 +30,12 @@ This project demonstrates how **AI and advanced analytics can enhance decision-m
 * Reducing uncertainty in procurement, sales, and investment strategies.
 * Establishing a **repeatable and extensible pipeline** for future forecasting improvements.
 
+
+## 🎥 Demo Video
+
+👉 [Watch the Demo Video]([https://your-demo-video-link.com](https://www.linkedin.com/posts/nada-ammar-465556207_agriurea-ai-for-smarter-fertilizer-price-activity-7371158899497795585-hbvE?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSVrA0B9YGC7IJFPGEKGSwo0T9h5GBarvE))
+
 ---
 
-**Skills & Tools**: Time Series Analysis, Statistical Modeling, Machine Learning, Deep Learning, Data Preprocessing, React.js, FastAPI, Python (NumPy, Pandas, Scikit-learn, TensorFlow/Keras), Tailwind CSS, Data Visualization.
+⚠️ **Note:** Some internal/private data (Dnext internal datasets) are not shared in this repository for confidentiality reasons.
+
