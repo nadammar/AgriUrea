@@ -24,11 +24,12 @@ During my internship at **DNEXT Intelligence SA**, I developed **AgriUrea**, a w
 
 ### 🎯 Value Added
 
-This project demonstrates how **AI and advanced analytics can enhance decision-making in the fertilizer market** by:
+This project demonstrates how **AI and advanced analytics can enhance decision-making in the fertilizer market** :
 
-* Supporting farmers, traders, and policymakers with **short-term actionable insights**.
-* Reducing uncertainty in procurement, sales, and investment strategies.
-* Establishing a **repeatable and extensible pipeline** for future forecasting improvements.
+* **Data-Driven Decision Making:** Empowers stakeholders with actionable insights on agricultural product pricing.
+* **Innovation:** Combines statistical, ML, and DL models to benchmark forecasting performance.
+* **Practical Impact:** Forecasting Urea prices helps industries and policymakers anticipate market changes and optimize strategies.
+* **Efficiency:** Transforms raw data into interactive dashboards and predictive tools, making insights accessible in real-time.
 
 
 ## 🎥 Demo Video
